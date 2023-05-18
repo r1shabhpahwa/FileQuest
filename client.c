@@ -1,16 +1,3 @@
-/* 	
-	Authors: Rishabh Pahwa
-			 Student ID: 110091353
-			 Email: pahwar@uwindsor.ca
-			 
-			 Tanmay Verma
-			 Student ID: 110089806
-			 Email: verma46@uwindsor.ca
-			 
-	Title: COMP8567: Advanced Systems Programming - Final Project 
-	
-	Submitted to: Dr. Prashanth Ranga
-*/
 #include <arpa/inet.h>
 #include <ctype.h>
 #include <netdb.h>
